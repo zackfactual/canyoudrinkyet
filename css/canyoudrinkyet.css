@@ -1,0 +1,38 @@
+.jumbotron {
+    background-color: #113388;
+    color: #fff;
+}
+
+h1 {
+    margin-left: 20px;
+}
+
+footer {
+    color: #fff;
+    background-color: #113388;
+    position: fixed;
+    bottom: 0;
+    height: 3%;
+    width: 100%;
+}
+
+main {
+    margin: 0 10%;
+}
+
+#copy {
+    position: fixed;
+    bottom: 5px;
+}
+
+#submitButton {
+    color: #fff;
+    background-color: #337ab7;
+    border-color: #2e6da4;
+    margin-top: 5px;
+}
+
+#submitButton:hover {
+    background-color: #286090;
+    border-color: #204d74;
+}
